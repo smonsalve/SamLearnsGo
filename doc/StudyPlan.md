@@ -1,0 +1,24 @@
+- [ ] CLI
+- [ ] Web Server
+- [ ] API
+- [ ] 
+
+- [ ] "bufio"
+- [ ] "context"
+- [ ] "flag"
+- [ ] "fmt"
+- [ ] "os"
+- [ ] "os/exec"
+- [ ] "path"
+- [ ] "strings"
+- [ ] "time"
+- [ ] bcrpb "github.com/google/fhir/go/proto/google/fhir/proto/r4/core/resources/bundle_and_contained_resource_go_proto"
+- [ ] cspb "github.com/google/fhir/go/proto/google/fhir/proto/r4/core/resources/code_system_go_proto"
+- [ ] qpb "github.com/google/fhir/go/proto/google/fhir/proto/r4/core/resources/questionnaire_go_proto"
+- [ ] qrpb "github.com/google/fhir/go/proto/google/fhir/proto/r4/core/resources/questionnaire_response_go_proto"
+- [ ] "github.com/verily-src/verily1/common/fhir/bundle"
+- [ ] "github.com/verily-src/verily1/common/fhir/containedresource"
+- [ ] "github.com/verily-src/verily1/common/fhir/gcp"
+- [ ] "github.com/verily-src/verily1/common/onejson"
+- [ ] "github.com/verily-src/verily1/enrichment/tools/internal/cfg"
+- [ ] "github.com/verily-src/verily1/enrichment/tools/internal/cli"
